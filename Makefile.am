@@ -120,7 +120,6 @@ libeasyrpg_player_a_SOURCES = \
 	src/game_party_base.h \
 	src/game_pictures.cpp \
 	src/game_pictures.h \
-	src/game_player.cpp \
 	src/game_player.h \
 	src/game_screen.cpp \
 	src/game_screen.h \
@@ -177,7 +176,6 @@ libeasyrpg_player_a_SOURCES = \
 	src/platform.cpp \
 	src/platform.h \
 	src/platform_clock.h \
-	src/player.cpp \
 	src/player.h \
 	src/game_quit.cpp \
 	src/game_quit.h \
